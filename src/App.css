@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.App h2 {
+  font-size: 32px;
+  font-weight: 500;
+  color: #fff;
+  margin: 40px auto 20px auto;
+}
+.App p {
+  margin-bottom: 0;
+}
